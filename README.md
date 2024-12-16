@@ -32,3 +32,6 @@ Completed a hands-on bootcamp, where I applied my skills in Python, SQL, and Dat
 Advanced Machine Learning techniques
 Deep Learning for Text and Image Data
 GitHub workflows and collaboration
+
+![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)  
+[My LinkedIn Profile](https://www.linkedin.com/in/diego-torres-garcia-iie/)
