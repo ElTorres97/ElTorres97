@@ -9,7 +9,13 @@ Machine Learning: Building predictive models to solve business problems.
 Programming: Writing clean and efficient code to automate workflows and streamline processes.
 
 🌟 Skills
-Programming Languages: Python, SQL, R-Studio
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=white)  
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white)  
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)  
+![RStudio](https://img.shields.io/badge/-RStudio-75AADB?style=flat&logo=rstudio&logoColor=white)  
+![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)  
+
 Data Tools: Pandas, NumPy, Matplotlib, Scikit-learn
 Machine Learning: Supervised & Unsupervised Learning, Text Analysis, Computer Vision
 Databases: SQL for data storage and manipulation
