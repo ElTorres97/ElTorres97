@@ -11,24 +11,12 @@ Programming: Writing clean and efficient code to automate workflows and streamli
 🌟 Skills
 
 <p align="center">
-  <a href="https://www.python.org/">
-    <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
-  </a>
-  <a href="https://powerbi.microsoft.com/">
-    <img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=white" />
-  </a>
-  <a href="https://www.tableau.com/">
-    <img src="https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white" />
-  </a>
-  <a href="https://www.mysql.com/">
-    <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white" />
-  </a>
-  <a href="https://www.rstudio.com/">
-    <img src="https://img.shields.io/badge/-RStudio-75AADB?style=flat&logo=rstudio&logoColor=white" />
-  </a>
-  <a href="https://www.microsoft.com/en-us/microsoft-365/excel">
-    <img src="https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" />
-  </a>
+  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" /></a>
+  <a href="https://powerbi.microsoft.com/"><img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=white" /></a>
+  <a href="https://www.tableau.com/"><img src="https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white" /></a>
+  <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white" /></a>
+  <a href="https://www.rstudio.com/"><img src="https://img.shields.io/badge/-RStudio-75AADB?style=flat&logo=rstudio&logoColor=white" /></a>
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel"><img src="https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" /></a>
 </p>
 
  
